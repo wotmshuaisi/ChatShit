@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding:utf-8 -*-
 
-__author__ = "CharlAnders"
 __date__ = "5/10/2017"
 
 import socketserver
